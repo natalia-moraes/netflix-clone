@@ -1,4 +1,4 @@
 # netflix-clone
-Criando clone do site Netflix
+Recriando site Netflix
 
 <img src="screencapture.png">
